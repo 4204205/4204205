@@ -1,3 +1,5 @@
+<img src="https://github.com/aregulardev/aregulardev/blob/main/banner.jpeg?raw=true">
+
 ### Hello there! 👋
 
 <img align=left width="47%" src="https://github-readme-stats.vercel.app/api?username=aregulardev&theme=nightowl">
